@@ -1,4 +1,4 @@
-# RetoConversionDeMoneda
+# RetoConversionDeMoneda_esp-main
 
 # Descripción
 Conversor de monedas en Java con integración de API para obtener tasas actualizadas.
@@ -43,15 +43,45 @@ Conversor de monedas en Java con integración de API para obtener tasas actualiz
 
 -Vera que ya se agrego, le da aplicar y aceptar.
 
-[](https://github.com/FabioTochoy/RetoConversionDeMoneda/blob/main/imagen%204.jpg)
+![](https://github.com/FabioTochoy/RetoConversionDeMoneda/blob/main/imagen%204.jpg)
 
 -Ahora para el correcto funcionamiento del API debemos generar un key en esta pagina:
 
-[](https://www.exchangerate-api.com/)
+![](https://www.exchangerate-api.com/)
 
 -Una vez quue tengas tu key remplazas el key de este codigo por el generado para su usario como se ve a continuación:
 
+![](https://github.com/FabioTochoy/RetoConversionDeMoneda/blob/main/imagen%205.jpg)
 
+-Ya con estas configuraciones solo queda arrancar el programa en la clase principal, al arrancar el programa mostrara lo siguiente:
+
+![](https://github.com/FabioTochoy/RetoConversionDeMoneda/blob/main/imagen%206.jpg)
+
+-En este ejemplo selecione la opcion 6 que es convertir de Yen japones a Pesos colombianos y agregue la cantidad ded 10 yenes que son los que se convertira dando este resultado:
+
+![](https://github.com/FabioTochoy/RetoConversionDeMoneda/blob/main/imagen%207.jpg)
+
+-Ya por ultimo para cerrar el ciclo y finalizar el programa, selecciono la opcion 7 y termina su ejecución.
+
+![](https://github.com/FabioTochoy/RetoConversionDeMoneda/blob/main/imagen%208.jpg)
+
+-Gracias a la API estos resultados siempre estaran actualizados.
+
+#Aprendizaje
+
+-Durante el desarrollo se aprendió a:
+
+-Usar y entender cómo funciona una API.
+
+-Aplicar HttpRequest para enviar solicitudes al servidor y HttpResponse para recibir los datos.
+
+-Implementar try-catch para el manejo de errores.
+
+-Transformar datos JSON ↔ Java con la librería Gson.
+
+# Licencia
+
+-Este proyecto fue creado con fines educativos como parte de la formación de ONE con Alura Latam.
 
 
 
