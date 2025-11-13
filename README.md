@@ -29,5 +29,32 @@ Conversor de monedas en Java con integración de API para obtener tasas actualiz
 -Abre el proyecto en tu IDE (Eclipse, IntelliJ, VS Code, etc.).
 -Agrega la dependencia Gson para su correcto funcionamiento en pantalla como se muestra acontinuacion:
 
+-Primero selecionamos las 4 lineas
+
+![](https://github.com/FabioTochoy/RetoConversionDeMoneda/blob/main/imagen%201.jpg)
+
+-Luego en file seleccionamos la opcion Project Structure...
+
+![](https://github.com/FabioTochoy/RetoConversionDeMoneda/blob/main/imagen%202.jpg)
+
+-Dentro seleccionamos el + y agregamos la dependencia Gson.
+
+[](https://github.com/FabioTochoy/RetoConversionDeMoneda/blob/main/imagen%203.jpg)
+
+-Vera que ya se agrego, le da aplicar y aceptar.
+
+[](https://github.com/FabioTochoy/RetoConversionDeMoneda/blob/main/imagen%204.jpg)
+
+-Ahora para el correcto funcionamiento del API debemos generar un key en esta pagina:
+
+[](https://www.exchangerate-api.com/)
+
+-Una vez quue tengas tu key remplazas el key de este codigo por el generado para su usario como se ve a continuación:
+
+
+
+
+
+
 
 
